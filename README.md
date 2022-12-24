@@ -1,0 +1,2 @@
+# Simple_SDL2_project_configured_using_Makefile
+配置好给我自己用的，写的不怎么样，但是，再也不用查阅资料配置SDL了，克隆即用！
